@@ -1,0 +1,2 @@
+className = com.mw.monster.pro.Student
+methodName = show
